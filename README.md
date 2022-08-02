@@ -14,6 +14,7 @@
 ## pub cmd
 flutter build web --web-renderer html --release
 
+> cd /d path
 ## reference
 1. [office web viewer](https://juejin.cn/post/7025400224721928223#comment)
 2. [个人之前flutter web打包经验](https://github.com/shAdow-XJY/github_blog/blob/master/WriteDown.md)
