@@ -15,6 +15,13 @@
 flutter build web --web-renderer html --release
 
 > cd /d path
+# pub cmd
+cd /d E:\Android Studio Projects\noteview
+set http_proxy=127.0.0.1:10809
+set https_proxy=127.0.0.1:10809
+
+注： 如果出错的话，cmd打开，不是idea的terminal，也不是power shell
+
 ## reference
 1. [office web viewer](https://juejin.cn/post/7025400224721928223#comment)
 2. [个人之前flutter web打包经验](https://github.com/shAdow-XJY/github_blog/blob/master/WriteDown.md)

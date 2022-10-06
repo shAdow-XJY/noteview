@@ -12,19 +12,20 @@ class MyHomePage extends StatefulWidget {
 
 class _MyHomePageState extends State<MyHomePage> {
   var obj = [
-    {'filename': '前端面试-HTML+CSS.docx', 'imageUrl': 'assets/images/html5.png'},
-    {'filename': '前端面试-JavaScript.docx', 'imageUrl': 'assets/images/javascript.png'},
-    {'filename': '前端面试-Vue.docx', 'imageUrl': 'assets/images/vue.png'},
-    {'filename': '前端面试-React.docx', 'imageUrl': 'assets/images/react.png'},
-    {'filename': '前端面试-TS.docx', 'imageUrl': 'assets/images/typescript.png'},
-    {'filename': '前端面试-工程化.docx', 'imageUrl': 'assets/images/webpack.png'},
+    {'filename': '前端-HTML+CSS.docx', 'imageUrl': 'assets/images/html5.png'},
+    {'filename': '前端-JavaScript.docx', 'imageUrl': 'assets/images/javascript.png'},
+    {'filename': '前端-Vue.docx', 'imageUrl': 'assets/images/vue.png'},
+    {'filename': '前端-React.docx', 'imageUrl': 'assets/images/react.png'},
+    {'filename': '前端-TS.docx', 'imageUrl': 'assets/images/typescript.png'},
+    {'filename': '前端-Flutter.docx', 'imageUrl': 'assets/images/flutter.png'},
+    {'filename': '前端-工程化.docx', 'imageUrl': 'assets/images/webpack.png'},
     {'filename': 'a中端笔试-算法代码题汇总.docx', 'imageUrl': 'assets/images/coding.png'},
     {'filename': 'a中端笔试-数据结构.docx', 'imageUrl': 'assets/images/coding.png'},
-    {'filename': '中端面试-Git.docx', 'imageUrl': 'assets/images/git.png'},
-    {'filename': '中端面试-MySQL.docx', 'imageUrl': 'assets/images/mysql.png'},
-    {'filename': '中端面试-计算机网络.docx', 'imageUrl': 'assets/images/network.png'},
-    {'filename': '中端面试-设计模式.docx', 'imageUrl': 'assets/images/design.png'},
-    {'filename': '中端面试-操作系统.docx', 'imageUrl': 'assets/images/os.png'},
+    {'filename': '中端-Git.docx', 'imageUrl': 'assets/images/git.png'},
+    {'filename': '中端-MySQL.docx', 'imageUrl': 'assets/images/mysql.png'},
+    {'filename': '中端-计算机网络.docx', 'imageUrl': 'assets/images/network.png'},
+    {'filename': '中端-设计模式.docx', 'imageUrl': 'assets/images/design.png'},
+    {'filename': '中端-操作系统.docx', 'imageUrl': 'assets/images/os.png'},
     {'filename': 'Personal-PPT.pptx', 'imageUrl': 'assets/images/ppt.png'},
   ];
 
